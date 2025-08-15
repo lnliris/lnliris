@@ -12,6 +12,3 @@ Role: Software Engineer
 Focus: Clean Code, Creative Solutions
 Mood: 🌸 Calm but ⚡ Explosive when coding
 
-Trophies: https://github-profile-trophy.vercel.app/?username=lnliris&theme=algolia&no-frame=true
-Activity graph: https://github-readme-activity-graph.vercel.app/graph?username=lnliris&theme=tokyo-night&hide_border=true
-Quote card: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
